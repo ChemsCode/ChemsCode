@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm Chems-Eddine Saidi, a software engineering student at Concordia University in Montreal. I'm passionate about creating innovative solutions and working with emerging technologies.
 
+Visit my [website](chemseddine-saidi.com)!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chems-eddine-saidi) 
